@@ -17,7 +17,6 @@ import com.marcone.cursomc.domain.Endereco;
 import com.marcone.cursomc.domain.Estado;
 import com.marcone.cursomc.domain.ItemPedido;
 import com.marcone.cursomc.domain.Pagamento;
-import com.marcone.cursomc.domain.PagamentoComBoleto;
 import com.marcone.cursomc.domain.PagamentoComCartao;
 import com.marcone.cursomc.domain.Pedido;
 import com.marcone.cursomc.domain.Produto;
