@@ -34,7 +34,7 @@ import com.marcone.cursomc.repositories.PedidoRepository;
 import com.marcone.cursomc.repositories.ProdutoRepository;
 
 @Configuration
-@Profile("dev")
+@Profile("test")
 public class TestConfig implements CommandLineRunner {
 
 	@Autowired
