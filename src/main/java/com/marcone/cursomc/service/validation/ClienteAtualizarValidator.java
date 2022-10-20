@@ -28,6 +28,7 @@ public class ClienteAtualizarValidator implements ConstraintValidator<ClienteAtu
 	public void initialize(ClienteAtualizar ann) {
 	}
 
+	@SuppressWarnings("unlikely-arg-type")
 	@Override
 	public boolean isValid(ClienteDTO objDto, ConstraintValidatorContext context) {
 		
