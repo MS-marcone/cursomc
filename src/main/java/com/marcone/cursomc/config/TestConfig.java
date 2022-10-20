@@ -40,6 +40,7 @@ public class TestConfig implements CommandLineRunner {
 	@Autowired
 	private ClienteRepository clr;
 	
+	
 
 	@Autowired
 	private EnderecoRepository endr;
